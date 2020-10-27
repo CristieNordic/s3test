@@ -1,0 +1,5 @@
+access_key = '<Your Access Key>'
+secret_key = '<Your Secret Key>'
+address    = '<S3 URL>'
+commMethod = 'https'
+bucket = '<bucket name>'
